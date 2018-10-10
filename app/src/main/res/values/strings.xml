@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginMusicaPromo1</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
