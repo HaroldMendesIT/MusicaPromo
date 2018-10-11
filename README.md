@@ -7,6 +7,8 @@ O IDE em uso será o Android Studio
 
 Authors:
 Carlos Hilario
+
 Harold Mendes
+
 Irshaad Dadabay
 
