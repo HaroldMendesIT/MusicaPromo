@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lista Generos</string>
+    <string-array name="Generos">
+        <item>Afro House</item>
+        <item>Kizomba</item>
+        <item>Funk 80</item>
+        <item>Kuduro</item>
+        <item>Pandza</item>
+        <item>Funana</item>
+        <item>Hip Hop</item>
+        <item>Rnb</item>
+        <item>House Music</item>
+        <item>EDM</item>
+        <item>Tech House</item>
+        <item>Techno House</item>
+        <item>Slow</item>
+
+    </string-array>
+
+
+</resources>
