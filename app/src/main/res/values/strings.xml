@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">LoginMusicaPromo1</string>
+    <string name="app_name">VideoMusicaPromo1</string>
 
-    <string name="login">Login</string>
-    <string name="password">Password</string>
-    <string name="e_mail">E-mail</string>
+
+
     <string name="todo">TODO</string>
     <string name="todo1">TODO</string>
+    <string name="nga_irmanidade">NGA - Irmanidade</string>
+    <string name="mauro_flow_pinoqio">Mauro Flow -Pinoqio</string>
+    <string name="danny_crazy_mulher">Danny Crazy - Mulher</string>
+    <string name="badoxa_eu_sei">Badoxa - eu sei</string>
 </resources>

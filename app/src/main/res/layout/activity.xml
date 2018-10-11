@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="198dp"
+    tools:context=".VideoActivity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="163dp"
+        android:layout_height="28dp"
+        android:text="@string/nga_irmanidade"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="467dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="163dp"
+        android:layout_height="28dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginStart="16dp"
+        android:text="@string/mauro_flow_pinoqio"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        tools:layout_editor_absoluteY="273dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/mplogo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="163dp"
+        android:layout_height="28dp"
+        android:text="@string/danny_crazy_mulher"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="273dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="163dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/DannyCrazy"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="107dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="166dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/MauroFlow"
+        tools:layout_editor_absoluteX="195dp"
+        tools:layout_editor_absoluteY="107dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="161dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/Nga"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="165dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/Badoxa"
+        tools:layout_editor_absoluteX="195dp"
+        tools:layout_editor_absoluteY="311dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="163dp"
+        android:layout_height="28dp"
+        android:text="@string/badoxa_eu_sei"
+        tools:layout_editor_absoluteX="195dp"
+        tools:layout_editor_absoluteY="467dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="76dp"
+        android:layout_height="wrap_content"
+        android:text="Videos"
+        tools:layout_editor_absoluteX="165dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+</android.support.constraint.ConstraintLayout>
