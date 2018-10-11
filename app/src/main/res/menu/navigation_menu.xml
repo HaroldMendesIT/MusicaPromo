@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/nav_account"
+        android:icon="@mipmap/baseline_person_black_18dp"
+        android:title="Artista"/>
+
+
+
+
+    <item android:id="@+id/Album"
+        android:icon="@mipmap/baseline_album_black_18dp"
+        android:title="Album"/>
+
+
+
+    <item android:id="@+id/Enviar_musica"
+        android:icon="@mipmap/baseline_cloud_upload_black_18dp"
+        android:title="Enviar Musica"/>
+
+
+
+
+    <item android:id="@+id/Gender"
+        android:icon="@mipmap/baseline_view_agenda_black_18dp"
+        android:title="Gennero"/>
+
+
+
+    <item android:id="@+id/Events"
+        android:icon="@mipmap/baseline_event_black_18dp"
+        android:title="Eventos"/>
+
+
+
+    <item android:id="@+id/Videos"
+        android:icon="@mipmap/baseline_video_library_black_18dp"
+        android:title="Videos"/>
+
+
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/baseline_settings_black_18dp"
+        android:title="Definições"/>
+
+
+
+    <item android:id="@+id/logout"
+        android:icon="@mipmap/baseline_exit_to_app_black_18dp"
+        android:title="Log Out"/>
+
+
+</menu>
