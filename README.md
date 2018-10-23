@@ -34,7 +34,9 @@ Nós usamos SemVer para versionamento. Para as versões disponíveis, consulte a
 # Autores
 
 Carlos Massuganhe - Trabalho Inicial
+
 Harold Mendes - Trabalho Inicial 
+
 Irshaad Dadabay - Trabalho Inicial
 
 Veja também a lista de colaboradores que participaram deste projeto.
