@@ -1,15 +1,52 @@
-# MusicaPromo
+# Musica Promo APP (Android)
 
-Como sera Feito?
+ Site de Entretenimento
 
-Criaçao da WebApp MusicaPromo
-O IDE em uso será o Android Studio 
 
-Authors:
+# Pré-requisitos
 
-Carlos Hilario
+Android 5.0.1 (Lolipop)
 
-Harold Mendes
+# Instalacao
 
-Irshaad Dadabay
+
+# Executando os testes
+
+
+# Desdobramento
+
+
+
+# Construído com
+
+Android Studio 3.2
+
+
+
+# Contribuindo
+
+Por favor, leia CONTRIBUTING.md para detalhes sobre o nosso código de conduta, e o processo para enviar pedidos de pull para nós.
+
+# Versão
+
+Nós usamos SemVer para versionamento. Para as versões disponíveis, consulte as tags neste repositório.
+
+# Autores
+
+Carlos Massuganhe - Trabalho Inicial
+Harold Mendes - Trabalho Inicial 
+Irshaad Dadabay - Trabalho Inicial
+
+Veja também a lista de colaboradores que participaram deste projeto.
+
+
+# Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para detalhes
+
+# Agradecimentos
+
+Dr. Abdul Gafar Meque
+(Inspiração)
+
 
