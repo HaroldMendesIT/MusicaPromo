@@ -13,9 +13,6 @@ Android 5.0.1 (Lolipop)
 # Executando os testes
 Testes feitos com intents no sidebar
 
-# Desdobramento
-
-
 
 # Construído com
 Android 3.1.4
