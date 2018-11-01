@@ -18,7 +18,7 @@ Testes feitos com intents no sidebar
 
 
 # Construído com
-
+Android 3.1.4
 Android Studio 3.2
 
 
@@ -29,7 +29,6 @@ Por favor, leia CONTRIBUTING.md para detalhes sobre o nosso código de conduta, 
 
 # Versão
 
-Nós usamos SemVer para versionamento. Para as versões disponíveis, consulte as tags neste repositório.
 
 # Autores
 
