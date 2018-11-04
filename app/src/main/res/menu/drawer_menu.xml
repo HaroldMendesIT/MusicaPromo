@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+
+
+    <item android:title="Musica Promo">
+        <menu>
+            <item
+                android:id="@+id/nav_signup"
+                android:icon="@drawable/ic_signup"
+                android:title="Cadastrar"
+                android:onClick="signup"/>
+
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_login"
+                android:title="Login"
+                android:onClick="login"/>
+
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="Opções"
+                android:onClick="settings"/>
+
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_information"
+                android:title="Sobre Nós"
+                android:onClick="about"/>
+
+            <item
+                android:id="@+id/nav_web"
+                android:icon="@drawable/ic_web"
+                android:title="Nossa Pagina Web"
+                android:onClick="website"/>
+
+        </menu>
+
+
+    </item>
+
+
+
+
+
+    <item android:title="Descubra">
+        <menu>
+
+            <item
+                android:id="@+id/nav_artistas"
+                android:icon="@drawable/ic_artistas"
+                android:title="Artistas"
+                android:onClick="artists"/>
+
+            <item
+                android:id="@+id/nav_album"
+                android:icon="@drawable/ic_album"
+                android:title="Albums"
+                android:onClick="albums"/>
+
+            <item
+                android:id="@+id/nav_genero"
+                android:icon="@drawable/ic_genero"
+                android:title="Genero"
+                android:onClick="genre"/>
+
+
+
+        </menu>
+
+
+    </item>
+    </group>
+
+</menu>
+
