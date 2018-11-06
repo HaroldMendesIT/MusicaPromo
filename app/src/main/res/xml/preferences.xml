@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Opções Basicas">
+
+        <CheckBoxPreference
+            android:key="checkbox"
+            android:summary="Clique Para Activar/ Desactivar"
+            android:title="Activar Notificaoes" />
+
+        <EditTextPreference
+            android:dialogTitle="Enter a text"
+            android:key="text"
+            android:summary="Clique para Editar"
+            android:title="Edite o Texto" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Opções Avançadas">
+
+        <ListPreference
+            android:dialogTitle="Select duration"
+            android:entries="@array/settings_list_preference_titles"
+            android:entryValues="@array/settings_list_preference_values"
+            android:key="list"
+            android:summary="Clique para amostrar a lista de referencias"
+            android:title="Lista de Preferencias" />
+        <MultiSelectListPreference
+            android:dialogTitle="Dialog title"
+            android:entries="@array/settings_multi_select_list_preference_titles"
+            android:entryValues="@array/settings_multi_select_list_preference_values"
+            android:key="multi_select_list"
+            android:title="CheckBox de Preferencias" />
+        <SwitchPreference
+            android:key="switch"
+            android:title="AutoPlay"
+            android:summary="Clique para Ligar/ Desligar"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+
+
+
+
+
+
+
+</PreferenceScreen>
